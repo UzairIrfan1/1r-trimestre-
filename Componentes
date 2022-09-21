@@ -24,18 +24,19 @@ RAM: RAM es un acronimo Random Access Memory. La RAM es una memoira temporal don
 una gran velocidad pero almacena cosas temporalmente. Hay distintos tipos, al igual que la cpu, placa base etc) la RAM no es exclusiva de las pc. Tambien 
 tienen muchas versiones, como la ddr1, ddr2, ddr3, ddr4 y ddr5, aunque tambien estan las de portatiles que lo unico distinto es el tamaño. 
 
-GPU: Las tarjetas graficas son fundamentales para el funcionamiento de la pc, estas procesan la imagen al monitor, todo lo que usas en el pc y se ve en el 
-monitor como google, videojuegos etc) son procesados por este. Hay dos tipos una son las graficas integradas de las apu, que no son muy potentes y luego 
-estan las tarjetas graficas dedicadas, su potencia depende del modelo. Las graficas tienen su propia RAM llamada VRAM dependiendo de tu tarjeta puede ser 
-mas o menos potente, tambien tienen su propia CPU. Tambien su VRAM puede variar, GDDR2, GDDR3, GDDR4 y GDDR5. 
+GPU: Las tarjetas gráficas son fundamentales para el funcionamiento de la PC, estas procesan la imagen al monitor, todo lo que usas en el PC y se ve en el
+monitor como Google, videojuegos, etc.) son procesados por este. Hay dos tipos, una son las gráficas integradas de las apu, que no son muy potentes y luego
+están las tarjetas gráficas dedicadas, su potencia depende del modelo. Las gráficas tienen su propia RAM llamada VRAM dependiendo de tu tarjeta puede ser
+más o menos potente, también tienen su propia CPU. También su VRAM puede variar, GDDR2, GDDR3, GDDR4 y GDDR5. 
 
-Disco duro: Los discos duros son la parte donde el ordenador almacena sus datos. Dependiendo de que tipo de disco duro tengas, puede variar la capacidad y 
-velocidad, por ejemplo las HDD o discos mecanicos, estan compuestos por peizas mecanicas  estos graban los datos con magnetismo, estos cuanto mas finos 
-mejor sera su grabacion tambien cuando mas rapido giren mas rapido transmiten los datos. Luego estan los discos solidos o SDD que es una alternativa mas 
-eficaz a diferencia de los mecanicos, estos almacenan sus datos en microchips con su memoria flash interconectada. Los SDD son una alternativa algo mas 
-costosa pero mucho mejor en casi todos los aspectos, como la velocidad, el consumo, es muchisimo mas seguro, es menos ruidoso etc).
+Disco duro: Los discos duros son la parte donde el ordenador almacena sus datos. Dependiendo de que tipo de disco duro tengas, puede variar la capacidad y
+velocidad, por ejemplo las HDD o discos mecánicos, están compuestos por piezas mecánicas estos graban los datos con magnetismo, estos cuanto más finos
+mejor será su grabación también cuando más rápido giren más rápido transmiten los datos. Luego están los discos sólidos o SDD que es una alternativa más
+eficaz a diferencia de los mecánicos, estos almacenan sus datos en microchips con su memoria flash interconectada. Los SDD son una alternativa algo más
+costosa, pero mucho mejor en casi todos los aspectos, como la velocidad, el consumo, es muchísimo más seguro, es menos ruidoso, etc.)Refrigeración: El disipador es el que se encarga de enfriar al componente que este encargado. Hay varios tipos, los más comunes son los de aire, luego está
+la refrigeración líquida y unos que están sumergidos en líquidos no conductores. Los disipadores antes suele aplicarse una pasta llamada pasta térmica, la
+cual hace que la disipación sea más efectiva.
 
-Refrigeracion: El disipador es el que se encarga de enfriar al componente que este encargado. Hay varios tipos, los mas comunes son los de aire, luego esta
-la refrigeracion liquida y unos que estan sumergidos en liquidos no conductores. Los disipadores antes suele aplicarse una pasta llamada pasta termica, la
-cual hace que la disipasion sea mas efectiva. 
-Refrigeracion: 
+Refrigeración: El disipador es el que se encarga de enfriar al componente que este encargado. Hay varios tipos, los más comunes son los de aire, luego está
+la refrigeración líquida y unos que están sumergidos en líquidos no conductores. Los disipadores antes suele aplicarse una pasta llamada pasta térmica, la
+cual hace que la disipación sea más efectiva.
