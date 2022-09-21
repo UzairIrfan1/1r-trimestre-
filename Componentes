@@ -1,21 +1,21 @@
 Componentes: Los componentes son la parte fisica que hace funcionar la pc. 
 
-Fuente de alimentacion: La fuente es la que se encarga de suministrar la energia a todos los componentes. Esta transforma la energia alterna del enchufe
-en energia continua ya que la pc funciona con energia continua y no con alterna. Estas deben dar a los componentes con exactitud la energia que nececitan
-por ende estas tambien tienen un conversor de voltaje para llevar a cabo esta funcion. Tambien estos cuentan con un filtro (X y Y que son unos condensadores)
-y hacen que la suministracion de energia sea menos ruidosa o como se le conoce que sea corriente limpia. Debido a la calidad de estos la eficiencia mejora
-y hace que algunas fuentes sean mas caras y eficientes que otras. Hay un tipo de fuentes llamadas fuentes modulares, estas a la hora del cableado facilitan
-mucho ya que en su parte trasera nos deja conectar y desconectar los cables, haciendo que a la hora del cableado no haga falta complicarse mucho y tener
-solo lo necesario haciendo que sea mas facil la organizacion. Tambien hay un tipo de fuente que son las certificadas 80 plus como el nombre indica estas 
-tienen un 80% de eficiencia y estan clacificadas por los siguientes nombres, estas estan clacificadas por 80 plus, 80 plus bronze, 80 plus silver,
+Fuente de alimentación: La fuente es la que se encarga de suministrar la energía a todos los componentes. Esta transforma la energía alterna del enchufe
+en energía continua, ya que la PC funciona con energía continua y no con alterna. Estas deben dar a los componentes con exactitud la energía que necesitan
+por ende estas también tienen un conversor de voltaje para llevar a cabo esta función. También estos cuentan con un filtro (X e Y que son unos condensadores)
+y hacen que la suministración de energía sea menos ruidosa o como se le conoce que sea corriente limpia. Debido a la calidad de estos, la eficiencia mejora
+y hace que algunas fuentes sean más caras y eficientes que otras. Hay un tipo de fuentes llamadas fuentes modulares, estás a la hora del cableado facilitan
+mucho, ya que en su parte trasera nos deja conectar y desconectar los cables, haciendo que a la hora del cableado no haga falta complicarse mucho y tener
+solo lo necesario haciendo que sea más fácil la organización. También hay un tipo de fuente que son las certificadas 80 plus como el nombre indica, estas
+tienen un 80% de eficiencia y están clasificadas por los siguientes nombres, estas están clasificadas por 80 plus, 80 plus bronze, 80 plus silver,
 80 plus gold, 80 plus platinum y 80 plus titanium.
 
-Placa base: La placa base es la encargada de interconectar todos los componentes. Todas las placas bases tienen lo siguinte, el Zocalo donde va la cpu,
-slots de RAMS, puertos SATA es el puerto donde van los HDD o SDD, PCIe es donde se conectan las tarjetas como las de sonido y tarjetas graficas, Conectores
-aqui se conecta el cableado de la fuente, Puertos son la parte donde se conectan los perifericos, Batería CMOS es una pila redonda que almacena los datos 
-de la BIOS y disipadores que es la parte por dodne saca el calor la placa base. Las placas bases tambien tienen una cosa llamada chipset, esta funcion esta
-principalmente conectada con la cpu ya que si el chipset no es la que requiere la cpu no funcionara la pc tambien influye en la RAM dependiendo de que 
-version sea esta. Por ultimo tambien depende el formato de la placa base, ATX y AT estas tienen diferentes versiones tambien. 
+Placa base: La placa base es la encargada de interconectar todos los componentes. Todas las placas bases tienen lo siguiente, el Zocalo donde va la CPU,
+slots de RAMS, puertos SATA es el puerto donde van los HDD o SDD, PCIe es donde se conectan las tarjetas como las de sonido y tarjetas gráficas, Conectores
+aquí se conecta el cableado de la fuente, Puertos son la parte donde se conectan los periféricos, Batería CMOS es una pila redonda que almacena los datos
+de la BIOS y disipadores que es la parte por donde saca el calor la placa base. Las placas bases también tienen una cosa llamada chipset, esta función está
+principalmente conectada con la cpu, ya que si el chipset no es la que requiere la CPU no funcionara, la PC también influye en la RAM dependiendo de que
+versión sea esta. Por último también depende el formato de la placa base, ATX y AT estas tienen diferentes versiones también.
 
 CPU: Es un acronimo de la palabra centra procesing uint y su funcion la de ejecutar instrucciones y procesar los datos. Aunque la cpu no es exclusiva de las
 pc. En pc hay 2 marcas principales de cpu AMD y Intel, una diferencia que tienen es la parte de inferior 
