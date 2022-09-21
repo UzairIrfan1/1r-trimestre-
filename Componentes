@@ -14,4 +14,8 @@ Placa base: La placa base es la encargada de interconectar todos los componentes
 slots de RAMS, puertos SATA es el puerto donde van los HDD o SDD, PCIe es donde se conectan las tarjetas como las de sonido y tarjetas graficas, Conectores
 aqui se conecta el cableado de la fuente, Puertos son la parte donde se conectan los perifericos, Batería CMOS es una pila redonda que almacena los datos 
 de la BIOS y disipadores que es la parte por dodne saca el calor la placa base. Las placas bases tambien tienen una cosa llamada chipset, esta funcion esta
-principalmente conectada con la cpu ya que si el chipset no es la que requiere la cpu no funcionara la pc 
+principalmente conectada con la cpu ya que si el chipset no es la que requiere la cpu no funcionara la pc tambien influye en la RAM dependiendo de que 
+version sea esta. Por ultimo tambien depende el formato de la placa base, ATX y AT estas tienen diferentes versiones tambien. 
+
+CPU: Es un acronimo de la palabra centra procesing uint y su funcion la de ejecutar instrucciones y procesar los datos. Aunque la cpu no es exclusiva de las
+pc. En pc hay 2 marcas principales de cpu AMD y Intel, una diferencia que tienen es la parte de inferior 
