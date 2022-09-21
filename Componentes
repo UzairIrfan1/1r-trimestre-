@@ -19,3 +19,15 @@ version sea esta. Por ultimo tambien depende el formato de la placa base, ATX y 
 
 CPU: Es un acronimo de la palabra centra procesing uint y su funcion la de ejecutar instrucciones y procesar los datos. Aunque la cpu no es exclusiva de las
 pc. En pc hay 2 marcas principales de cpu AMD y Intel, una diferencia que tienen es la parte de inferior 
+
+RAM: RAM es un acronimo Random Access Memory. La RAM es una memoira temporal donde se almacenan datos temporales que estas usando en ese momento. Esta tiene
+una gran velocidad pero almacena cosas temporalmente. Hay distintos tipos, al igual que la cpu, placa base etc) la RAM no es exclusiva de las pc. Tambien 
+tienen muchas versiones, como la ddr1, ddr2, ddr3, ddr4 y ddr5, aunque tambien estan las de portatiles que lo unico distinto es el tamaño. 
+
+GPU: Las tarjetas graficas son fundamentales para el funcionamiento de la pc, estas procesan la imagen al monitor, todo lo que usas en el pc y se ve en el 
+monitor como google, videojuegos etc) son procesados por este. Hay dos tipos una son las graficas integradas de las apu, que no son muy potentes y luego 
+estan las tarjetas graficas dedicadas, su potencia depende del modelo. Las graficas tienen su propia RAM llamada VRAM dependiendo de tu tarjeta puede ser 
+mas o menos potente, tambien tienen su propia CPU. Tambien su VRAM puede variar, GDDR2, GDDR3, GDDR4 y GDDR5. 
+
+Disco duro: Los discos duros son la parte donde el ordenador almacena sus datos. Dependiendo de que tipo de disco duro tengas, puede variar la capacidad y 
+velocidad, por ejemplo las HDD 
