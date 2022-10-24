@@ -1,0 +1,28 @@
+Para esta practica necesitaremos un piezo, una recistencia de 10k y un foto sensor y deberemos ponerlo todo como la siguiente imagen 
+"https://drive.google.com/file/d/1uqt3EquoSo-2j4pARoUIw1XdhqZ_xKbR/view?usp=sharing" esto cuando haya luz el piezo emetira sonido y debemos poner el siguiente codigo:
+
+int sensorValue;
+int sensorLow = 1023;
+int sensorHigh = 0;
+const int ledPin = 13;
+void setup() {
+  pinMode(ledPin, OUTPUT);
+  digitalWrite(ledPin, HIGH);
+  while (millis() < 5000) {
+    sensorValue = analogRead(A0);
+    if (sensorValue > sensorHigh) {
+      sensorHigh = sensorValue;
+    }
+    if (sensorValue > sensorLow) {
+      sensorLow = sensorValue;
+    }
+  }
+  digitalWrite(ledPin, LOW);
+}
+void loop() {
+  sensorValue = analogRead(A0);
+  int pitch =
+    map(sensorValue, sensorLow, sensorHigh, 50, 4000);
+  tone(8,pitch,20);
+  delay(10);
+}
