@@ -1,0 +1,10 @@
+En la practica uno haremos 3 circuitos distintos uno normal para encender un led, se necesitara 1 led 1 recistencia de 220 ohm y lo conectamos de la 
+siguiente forma "https://drive.google.com/file/d/154sCY_-iE-2j_IDWXQ8oRMebvt1xYdAv/view?usp=sharing" esto haria que el led se encendiera sin fundirse.
+
+La segunda parte haremos un circuito en serie con dos pulsadores, un led y una recistencia de 220 ohm y las conexiones, tendira que quedar como en la 
+siguiente imagen "https://drive.google.com/file/d/1MFLG0A4chfIkf7a5dYPtxCnm7xqf9PKr/view?usp=sharing" de esta forma solo pulsando ambos pulsadores se 
+encendera el led.
+
+La tercera parte tendremos que hacer un circuito en paralelo, lo que necesitamos son 2 pulsadores 1 led y una recistencia de 220 ohm, y mas conexiones que 
+la anterior tendira qeu quedar así "https://drive.google.com/file/d/1tES32HZ9iSBkrloH0JczcmIdL_FMDij6/view?usp=sharing" ahora al pulsar cualquier boton
+el circuito se encendera. 
