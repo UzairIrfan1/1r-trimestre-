@@ -1,0 +1,20 @@
+En la practica 9 necesitaremos una bateria de 9V, un pulsador, un mosfet, una recistencia de 10k, un diodo y un motor CC, luego lo montamos como en la 
+siguiente imagen "https://drive.google.com/file/d/12_TwfYRGmtnT5Yu3p-qDgrYWXQdCn0jO/view?usp=sharing" con esto se movera cuando pulsemos el boton pero 
+tambien tendremos que poner este codigo. 
+
+const int switchPin = 2;
+const int motorPin = 9;
+  int switchState = 9;
+void setup() {
+  pinMode(motorPin, OUTPUT);
+  pinMode(switchPin, INPUT);
+}
+void loop(){
+  switchState = digitalRead(switchPin);
+  if (switchState == HIGH) {
+    digitalWrite(motorPin, HIGH);
+  }
+  else{
+    digitalWrite(motorPin, LOW);
+  }
+}
